@@ -6,6 +6,7 @@ excerpt: ''
 date: 2022-12-19
 venue: '2022 10th International Japan-Africa Conference on Electronics, Communications, and Computations (JAC-ECC)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10043930'
+citation: ''
 [Download paper here](https://ieeexplore.ieee.org/abstract/document/10043930)
 ---
 Abstract:
