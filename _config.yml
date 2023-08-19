@@ -82,13 +82,15 @@ analytics:
 author:
   name             : "Wireless Communication Research Engineer"
   avatar           : "bonifaceuwizeyimana.jpeg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Passionate about contributing to science and solving real problems facing humanity by being creative, innovative, and always
+                      thinking outside the box. I am enthusiastic about computer programming and computer-oriented solutions to problems. I am
+                      a believer in hard work in the words of Vince Lombardi " The man on the top of the mountain didn't fall there"."
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "uwibony16@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Boniface-Uwizeyimana"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +105,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   LinkedIn         : "www.linkedin.com/in/uwizeyimana-boniface-78478413a"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0009-3165-7519"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
