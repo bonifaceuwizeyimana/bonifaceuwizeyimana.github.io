@@ -1,5 +1,5 @@
 ---
-title: "Paper 1: Multi-Armed Bandit and Repeated Auction Approaches for User Admission and Channel Allocation in 5G HetNets"
+title: "Multi-Armed Bandit and Repeated Auction Approaches for User Admission and Channel Allocation in 5G HetNets"
 collection: publications
 permalink: /publication/2022-12-19-paper-title-number-1
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
