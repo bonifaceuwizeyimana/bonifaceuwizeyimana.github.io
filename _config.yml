@@ -83,9 +83,9 @@ author:
   name             : "Boniface Uwizeyimana"
   avatar           : "bonifaceuwizeyimana.jpeg"
   bio              : "MsC in Electronics and Communication Engineering"
-  location         : "Location"
+  location         : "Alexandria, Egypt"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=l-MxJhEAAAAJ&hl=en&oi=ao"
   email            : "uwibony16@gmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Boniface-Uwizeyimana"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
