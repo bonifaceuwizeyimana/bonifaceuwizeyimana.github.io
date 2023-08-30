@@ -13,8 +13,7 @@ a believer in hard work in the words of Vince Lombardi " The man on the top of t
 
 Publications
 ======
-1. Multi-Armed Bandit and Repeated Auction Approaches for User Admission and Channel Allocation in 5G HetNetsMulti-Armed Bandit and Repeated Auction Approaches for User Admission and Channel Allocation in 5G HetNets. [Link](https://ieeexplore.ieee.org/abstract/document/10043930)
-2. [Link 2](publications.md)
+1. Multi-Armed Bandit and Repeated Auction Approaches for User Admission and Channel Allocation in 5G HetNetsMulti-Armed Bandit and Repeated Auction Approaches for User Admission and Channel Allocation in 5G HetNets. [Link](publications.md)
 
 Research interests data
 ======
@@ -23,6 +22,11 @@ Research interests data
 * Application of AI and Machine learning for future wireless communication.
 * Cognitive radio technology
 * Digital signal processing and image processing using Deep Learning.
+
+Activities: Conference and workshops
+======
+1. ISNCC 2023: The 10th International Symposium on Networks, Computers and Communications, Held at the FIFA World Cup 2022 City- Qatar, from October 23 to 26, 2023. 
+3. Jacc-ECC 2022: 10th International Japan-Africa Conference on Electronics, Communications, and Computations, Held at Egypt-Japan UNiversity of science and technologies (E-JUST), Alexandria, Egypt.
 
 <!---
 
