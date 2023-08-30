@@ -14,6 +14,7 @@ a believer in hard work in the words of Vince Lombardi " The man on the top of t
 Publications
 ======
 1. Multi-Armed Bandit and Repeated Auction Approaches for User Admission and Channel Allocation in 5G HetNetsMulti-Armed Bandit and Repeated Auction Approaches for User Admission and Channel Allocation in 5G HetNets. [Link](https://ieeexplore.ieee.org/abstract/document/10043930)
+2. [Link 2](publications.md)
 
 Research interests data
 ======
