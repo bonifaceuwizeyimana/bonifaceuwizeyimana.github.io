@@ -6,8 +6,8 @@ main:
   - title: "Presentations"
     url: /talks/    
 
-  - title: "Course Works"
-    url: /teaching/    
+  #- title: "Course Works"
+   # url: /teaching/    
     
   #- title: "Portfolio"
    # url: /portfolio/
@@ -18,5 +18,5 @@ main:
   - title: "CV/ Resume"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+ # - title: "Guide"
+  #  url: /markdown/
