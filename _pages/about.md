@@ -11,6 +11,10 @@ Passionate about contributing to science and solving real problems facing humani
 thinking outside the box. I am enthusiastic about computer programming and computer-oriented solutions to problems. I am
 a believer in hard work in the words of Vince Lombardi " The man on the top of the mountain didn't fall there".
 
+Publications
+======
+1. Multi-Armed Bandit and Repeated Auction Approaches for User Admission and Channel Allocation in 5G HetNetsMulti-Armed Bandit and Repeated Auction Approaches for User Admission and Channel Allocation in 5G HetNets. [Link](https://ieeexplore.ieee.org/abstract/document/10043930)
+
 Research interests data
 ======
 * 6G and B6G wireless technologies.
