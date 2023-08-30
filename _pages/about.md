@@ -12,7 +12,6 @@ thinking outside the box. I am enthusiastic about computer programming and compu
 a believer in hard work in the words of Vince Lombardi " The man on the top of the mountain didn't fall there".
 
 **[My CV/Resume](/files/CurriculumViate@Boniface.pdf)**
-**[My CV2](cv.md)**
 
 Publications
 ======
