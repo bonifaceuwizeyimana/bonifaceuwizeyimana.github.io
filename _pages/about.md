@@ -25,7 +25,7 @@ Research interests data
 
 Activities: Conference and workshops
 ======
-1. *ISNCC 2023*: The 10th International Symposium on Networks, Computers and Communications, Held at the FIFA World Cup 2022 City- Qatar, from October 23 to 26, 2023. 
+1. *ISNCC 2023*: The 10th International Symposium on Networks, Computers and Communications, Held at the FIFA World Cup 2022 City- Qatar, from October 23 to 26, 2023. [Website] (https://www.isncc-conf.org/)
 3. *Jacc-ECC 2022*: 10th International Japan-Africa Conference on Electronics, Communications, and Computations, Held at Egypt-Japan UNiversity of science and technologies (E-JUST), Alexandria, Egypt.
 
 <!---
