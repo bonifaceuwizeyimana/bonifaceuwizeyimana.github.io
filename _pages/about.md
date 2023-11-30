@@ -15,6 +15,8 @@ a believer in hard work in the words of Vince Lombardi " The man on the top of t
 
 Publications
 ======
+1. A Multi-Agent Multi-Armed Bandit Approach for User Pairing in UAV-Assisted NOMA-Networks. [https://ieeexplore.ieee.org/document/10323784](https://ieeexplore.ieee.org/document/10323784)
+
 1. Multi-Armed Bandit and Repeated Auction Approaches for User Admission and Channel Allocation in 5G HetNets. [https://ieeexplore.ieee.org/abstract/document/10043930](https://ieeexplore.ieee.org/abstract/document/10043930)
 
 Research interests data
