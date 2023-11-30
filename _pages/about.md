@@ -13,6 +13,11 @@ a believer in hard work in the words of Vince Lombardi " The man on the top of t
 
 **[My CV/ Resume](/files/CurriculumViate@Boniface.pdf)**
 
+Education
+======
+1. **Graduate**: Master of Science in Electronics and Communication Engineering
+2. **Undergraduate**: Bachelor of Science in Electronics and Telecommunication Engineering
+
 Research interests
 ======
 * 6G and B6G wireless technologies.
@@ -27,13 +32,25 @@ Activities: Conference and workshops
 
 2. **JAC-ECC 2022**: 10th International Japan-Africa Conference on Electronics, Communications, and Computations, Held at Egypt-Japan UNiversity of Science and Technologies (E-JUST), Alexandria, Egypt; 19th-20th December 2022 [https://jac-ecc22.ejust.edu.eg/](https://jac-ecc22.ejust.edu.eg/)
 
-3. Workshop on mmWave and Massive MIMO wireless networks provided by national instruments (NI) 
+3. Workshop on mmWave and Massive MIMO wireless networks provided by national instruments (NI)
+
+
+Course work
+======
+**Graduate studies**
+
+**JAC-ECC 2022**
+1. A Multi-Agent Multi-Armed Bandit Approach for User Pairing in UAV-Assisted NOMA-Networks. [https://ieeexplore.ieee.org/document/10323784](https://ieeexplore.ieee.org/document/10323784)
+
+2. Multi-Armed Bandit and Repeated Auction Approaches for User Admission and Channel Allocation in 5G HetNets. [https://ieeexplore.ieee.org/abstract/document/10043930](https://ieeexplore.ieee.org/abstract/document/10043930)
+
+
 
 Publications
 ======
 1. A Multi-Agent Multi-Armed Bandit Approach for User Pairing in UAV-Assisted NOMA-Networks. [https://ieeexplore.ieee.org/document/10323784](https://ieeexplore.ieee.org/document/10323784)
 
-1. Multi-Armed Bandit and Repeated Auction Approaches for User Admission and Channel Allocation in 5G HetNets. [https://ieeexplore.ieee.org/abstract/document/10043930](https://ieeexplore.ieee.org/abstract/document/10043930)
+2. Multi-Armed Bandit and Repeated Auction Approaches for User Admission and Channel Allocation in 5G HetNets. [https://ieeexplore.ieee.org/abstract/document/10043930](https://ieeexplore.ieee.org/abstract/document/10043930)
 
 <!---
 
