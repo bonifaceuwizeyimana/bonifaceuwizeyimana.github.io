@@ -1,26 +1,17 @@
-<!---
-
-
-
-
-
 ---
-title: "Paper Title Number 1"
+title: "Multi-Armed Bandit and Repeated Auction Approaches for User Admission and Channel Allocation in 5G HetNets"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2022-12-19-paper-title-number-1
+excerpt: 'Abstract:
+Heterogeneous network and cognitive radio technology were introduced as part of 5G architecture to improve spectrum utilization and user capacity. Admitting secondary users in the wireless network is a challenge in the deployment of 5G. This paper presents a learning algorithm based on the multi-armed bandit technique to intelligently associate secondary users to the secondary base stations available in the network. Availing spectrum to secondary base stations and their associated users is done through a repeated auction game. The multi-armed bandit algorithm applied to the problem of user association enables secondary users oblivious about the channel environment to achieve higher data rates through association with the adequate secondary base station. Simulation results show a noticeably superior performance of the proposed multi-armed bandit algorithm compared to the matching game and random selection.'
+date: 2022-12-19
+venue: '2022 10th International Japan-Africa Conference on Electronics, Communications, and Computations (JAC-ECC)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10043930'
+#citation: ''
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Abstract:
+Heterogeneous network and cognitive radio technology were introduced as part of 5G architecture to improve spectrum utilization and user capacity. Admitting secondary users in the wireless network is a challenge in the deployment of 5G. This paper presents a learning algorithm based on the multi-armed bandit technique to intelligently associate secondary users to the secondary base stations available in the network. Availing spectrum to secondary base stations and their associated users is done through a repeated auction game. The multi-armed bandit algorithm applied to the problem of user association enables secondary users oblivious about the channel environment to achieve higher data rates through association with the adequate secondary base station. Simulation results show a noticeably superior performance of the proposed multi-armed bandit algorithm compared to the matching game and random selection.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://ieeexplore.ieee.org/abstract/document/10043930)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
-
-
-
-
--->
+Recommended citation: Uwizeyimana, Boniface, Ahmed H. Abd El-Malek, Osamu Muta, Mohammed Abo-Zahhad, and Maha Elsabrouty. "Multi-Armed Bandit and Repeated Auction Approaches for User Admission and Channel Allocation in 5G HetNets." In 2022 10th International Japan-Africa Conference on Electronics, Communications, and Computations (JAC-ECC), pp. 113-118. IEEE, 2022.
