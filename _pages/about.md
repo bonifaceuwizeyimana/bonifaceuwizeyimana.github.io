@@ -16,7 +16,7 @@ a believer in hard work in the words of Vince Lombardi " The man on the top of t
 
 Research interests
 ======
-* 6G and B6G wireless technologies.
+* Future wireless technologies: 5G, 6G, and beyond.
 * Integrated Sattelite-Aerial-terrestrial wireless networks.
 * Application of AI in future wireless communication.
 * Cognitive radio technology
