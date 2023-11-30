@@ -23,13 +23,13 @@ Research interests data
 ======
 * 6G and B6G wireless technologies.
 * Integrated Sattelite-Aerial-terrestrial wireless networks.
-* Application of AI and Machine learning for future wireless communication.
+* Application of AI in future wireless communication.
 * Cognitive radio technology
 * Digital signal processing and image processing using Deep Learning.
 
 Activities: Conference and workshops
 ======
-1. **ISNCC 2023**: The 10th International Symposium on Networks, Computers and Communications, Held at the FIFA World Cup 2022 City- Qatar, from October 23 to 26, 2023. [https://www.isncc-conf.org/](https://www.isncc-conf.org/)
+1. **ISNCC 2023**: The 10th International Symposium on Networks, Computers and Communications, Held at the FIFA World Cup 2022 City- Qatar, from October 23 to 26, 2023. [https://ieeexplore.ieee.org/document/10323784](https://ieeexplore.ieee.org/document/10323784)
 
 2. **JAC-ECC 2022**: 10th International Japan-Africa Conference on Electronics, Communications, and Computations, Held at Egypt-Japan UNiversity of Science and Technologies (E-JUST), Alexandria, Egypt; 19th-20th December 2022 [https://jac-ecc22.ejust.edu.eg/](https://jac-ecc22.ejust.edu.eg/)
 
