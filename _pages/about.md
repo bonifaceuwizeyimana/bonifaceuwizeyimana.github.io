@@ -13,7 +13,7 @@ a believer in hard work in the words of Vince Lombardi " The man on the top of t
 
 **[My CV/ Resume](/files/CurriculumViate@Boniface.pdf)**
 
-Research interests data
+Research interests
 ======
 * 6G and B6G wireless technologies.
 * Integrated Sattelite-Aerial-terrestrial wireless networks.
