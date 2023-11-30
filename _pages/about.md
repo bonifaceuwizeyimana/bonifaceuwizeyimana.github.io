@@ -25,12 +25,10 @@ Research interests
 Education
 ======
 * **Graduate**: Master of Science in Electronics and Communication Engineering
-  Course work
-  ======
+  
 **Graduate studies**
 * **Undergraduate**: Bachelor of Science in Electronics and Telecommunication Engineering
-  Course work
-  ======
+ 
 
 
 Activities: Conference and workshops
