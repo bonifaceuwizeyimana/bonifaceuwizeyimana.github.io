@@ -13,10 +13,6 @@ a believer in hard work in the words of Vince Lombardi " The man on the top of t
 
 **[My CV/ Resume](/files/CurriculumViate@Boniface.pdf)**
 
-Education
-======
-1. **Graduate**: Master of Science in Electronics and Communication Engineering
-2. **Undergraduate**: Bachelor of Science in Electronics and Telecommunication Engineering
 
 Research interests
 ======
@@ -25,6 +21,12 @@ Research interests
 * Application of AI in future wireless communication.
 * Cognitive radio technology
 * Digital signal processing and image processing using Deep Learning.
+
+Education
+======
+**Graduate**: Master of Science in Electronics and Communication Engineering
+**Undergraduate**: Bachelor of Science in Electronics and Telecommunication Engineering
+
 
 Activities: Conference and workshops
 ======
