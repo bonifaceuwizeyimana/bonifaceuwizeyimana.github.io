@@ -24,8 +24,8 @@ Research interests
 
 Education
 ======
-**Graduate**: Master of Science in Electronics and Communication Engineering
-**Undergraduate**: Bachelor of Science in Electronics and Telecommunication Engineering
+* **Graduate**: Master of Science in Electronics and Communication Engineering
+* **Undergraduate**: Bachelor of Science in Electronics and Telecommunication Engineering
 
 
 Activities: Conference and workshops
