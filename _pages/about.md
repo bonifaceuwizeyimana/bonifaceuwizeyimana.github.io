@@ -22,6 +22,14 @@ Research interests
 * Cognitive radio technology
 * Digital signal processing and image processing using Deep Learning.
 
+
+Publications
+======
+1. A Multi-Agent Multi-Armed Bandit Approach for User Pairing in UAV-Assisted NOMA-Networks. [https://ieeexplore.ieee.org/document/10323784](https://ieeexplore.ieee.org/document/10323784)
+
+2. Multi-Armed Bandit and Repeated Auction Approaches for User Admission and Channel Allocation in 5G HetNets. [https://ieeexplore.ieee.org/abstract/document/10043930](https://ieeexplore.ieee.org/abstract/document/10043930)
+
+
 Education
 ======
 * **Graduate**: Master of Science in Electronics and Communication Engineering
@@ -37,13 +45,6 @@ Activities: Conference and workshops
 * **JAC-ECC 2022**: 10th International Japan-Africa Conference on Electronics, Communications, and Computations, Held at Egypt-Japan University of Science and Technologies (E-JUST), Alexandria, Egypt; 19th-20th December 2022 [https://jac-ecc22.ejust.edu.eg/](https://jac-ecc22.ejust.edu.eg/)
 
 * Workshop on mmWave and Massive MIMO wireless networks provided by national instruments (NI)
-
-
-Publications
-======
-1. A Multi-Agent Multi-Armed Bandit Approach for User Pairing in UAV-Assisted NOMA-Networks. [https://ieeexplore.ieee.org/document/10323784](https://ieeexplore.ieee.org/document/10323784)
-
-2. Multi-Armed Bandit and Repeated Auction Approaches for User Admission and Channel Allocation in 5G HetNets. [https://ieeexplore.ieee.org/abstract/document/10043930](https://ieeexplore.ieee.org/abstract/document/10043930)
 
 <!---
 
