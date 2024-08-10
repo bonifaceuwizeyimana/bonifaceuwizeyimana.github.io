@@ -26,7 +26,7 @@ Research interests
 Publications
 ======
 1. Joint User Association and Pairing in Multi-UAVs assisted NOMA Networks: A Decaying Epsilon Thompson Sampling Framework.
-
+[https://doi.org/10.1109/ACCESS.2024.3417320](https://doi.org/10.1109/ACCESS.2024.3417320)
 2. A Multi-Agent Multi-Armed Bandit Approach for User Pairing in UAV-Assisted NOMA-Networks. [https://ieeexplore.ieee.org/document/10323784](https://ieeexplore.ieee.org/document/10323784)
 
 3. Multi-Armed Bandit and Repeated Auction Approaches for User Admission and Channel Allocation in 5G HetNets. [https://ieeexplore.ieee.org/abstract/document/10043930](https://ieeexplore.ieee.org/abstract/document/10043930)
