@@ -1,55 +1,185 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>AI Powered Wireless Networks</title>
-  <link rel="stylesheet" href="style.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Boniface website</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+  <link rel="stylesheet" href="style1.css" />
 </head>
 <body>
+  <!-- Navbar -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark px-4">
+    <a class="navbar-brand" href="#">
+        <a class="navbar-brand d-flex align-items-center" href="#">
+        <img src="C:/Users/Bonnie_PC/Desktop/PW/Images/Logopw.jpeg" alt="Logo" class="rounded-circle me-2" width="40" height="40">
+        <span class="fw-bold text-white">Boniface</span>
+      </a>
+    </a>
 
-  <!-- Navigation Bar -->
-  <header class="navbar">
-    <h1>🔬 Logo</h1>
-    <nav>
-      <ul class="nav-links">
-        <li><a href="#">Research Team</a></li>
-        <li><a href="#">Publications</a></li>
-        <li><a href="#">Blogs</a></li>
-
-        <li><a href="#">About Me</a></li>
-        
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item"><a class="nav-link text-light" href="#home">Research</a></li>
+        <li class="nav-item"><a class="nav-link text-light" href="#publications">Publications</a></li>
+        <li class="nav-item"><a class="nav-link text-light" href="#projects">Projects</a></li>
+        <li class="nav-item"><a class="nav-link text-light" href="#blogs">Blogs</a></li>
+        <li class="nav-item"><a class="nav-link text-light" href="C:/Users/Bonnie_PC/Desktop/PW/Images/Resume.pdf">Resume</a></li>
+        <li class="nav-item"><a class="nav-link text-light" href="#home">About Me</a></li>
       </ul>
-    </nav>
-  </header>
+    </div>
+  </nav>
 
-  <div class="container">
+  <div class="container-fluid">
+    <div class="row">
 
-    <!-- Sidebar -->
-    <aside class="sidebar">
-      <ul>
-        <li><a href="#"><i class="fas fa-home"></i> Home</a></li>
-        <li><a href="#"><i class="fas fa-flask"></i> Research</a></li>
-        <li><a href="#"><i class="fas fa-envelope"></i> Contact</a></li>
-      </ul>
-    </aside>
+      <!-- Sidebar -->
+      <aside class="col-md-3 col-lg-2 bg-secondary text-white p-3">
 
-    <!-- Main Content -->
-    <main class="main-content">
-      <h2>Welcome to My Research Blog</h2>
-      <p>This is where I share my latest findings, research ideas, and publications. Stay tuned!</p>
+        <!-- Contact Section -->
+        <div class="mt-4" id="contact">
+          <h5 class="border-bottom pb-4">Quick Links</h5>
+          <ul class="list-unstyled">
+            <li><a class="text-white d-block mb-2" href="https://scholar.google.ca/citations?user=l-MxJhEAAAAJ&hl=en&oi=ao" target="_blank"><i class="fas fa-graduation-cap me-3" style="color: rgb(255, 255, 255);"></i>Google Scholar</a></li>
+            <li><a class="text-white d-block mb-2" href="https://orcid.org/0009-0009-3165-7519" target="_blank"><i class="fab fa-orcid me-3" style="color: rgb(255, 255, 255);"></i>ORCID</a></li>
+            <li><a class="text-white d-block mb-2" href="https://www.researchgate.net/profile/Boniface-Uwizeyimana?ev=hdr_xprf" target="_blank"><i class="fas fa-flask me-3" style="color: rgb(255, 255, 255);"></i>ResearchGate</a></li>
+            <li><a class="text-white d-block mb-2" href="https://github.com/bonifaceuwizeyimana" target="_blank"><i class="fab fa-github me-3" style="color: rgb(255, 255, 255);"></i>GitHub</a></li>
+            <li><a class="text-white d-block mb-2 pb-4" href="https://www.linkedin.com/in/uwizeyimana-boniface-78478413a/" target="_blank"><i class="fab fa-linkedin me-3" style="color: rgb(255, 255, 255);"></i>LinkedIn</a></li>
+          </ul>
+        </div>
 
-      <!-- Example post -->
-      <article class="post">
-        <h3>🧬 AI in Healthcare</h3>
-        <p><strong>Date:</strong> April 12, 2025</p>
-        <p>Exploring how machine learning algorithms are revolutionizing patient diagnostics and predictive healthcare...</p>
-        <a href="#">Read More</a>
-      </article>
-    </main>
+        <ul class="list-unstyled ">
+          <li class="nav-item"><a class="nav-link text-white d-block mb-2" href="#contactme"><i class="fas fa-envelope me-3"></i>Contact Me</a></li>
+        </ul>
 
+      </aside>
+
+      <!-- Main Content -->
+      <main class="col-md-9 col-lg-10 py-4 px-5">
+
+        <!-- Home / Research Section -->
+        <section id="home" class="mb-5">
+          <h2 class="mb-2">Welcome to AI powered wireless communication</h2>
+          <p>You will find my latest research findings, ideas, and publications. Stay tuned!</p>
+          <div class="card mt-3">
+            <div class="card-body">
+              <h5 class="card-title"> Who is Boniface?</h5>
+              <h6 class="card-subtitle mb-2 text-muted">April 13, 2025</h6>
+              <p class="card-text">Boniface Uwizeyimana (Member, IEEE) is currently pursuing a Ph.D. in Electrical and Computer Engineering at the
+                University of Calgary. He obtained both his M.Sc. and B.Sc. degrees (with honours) in Electronics and Communication
+                Engineering from Egypt-Japan University of Science and Technology (E-JUST) in 2024 and the University of Rwanda
+                in 2019, respectively. His research interests encompass 5G, 6G, and future wireless technologies, including digital twins, machine
+                learning applications in wireless communication, cognitive radio technology, non-terrestrial networks, and digital signal
+                processing.</p>
+              <!-- <a href="#" class="card-link">Read More</a>-->
+            </div>
+          </div>
+        </section>
+
+        <!-- Publications -->
+        <section id="publications" class="mb-5">
+          <h2>📚 Publications</h2>
+          <div class="card mt-3">
+            <div class="card-body">
+              <h5 class="card-title">Efficient AI for Wireless Networks</h5>
+              <p class="card-text">Boniface Uwizeyimana, Co-author Name — <em>Journal of AI in Communications, 2023</em></p>
+              <a href="#" class="card-link">Read Full Paper</a>
+            </div>
+          </div>
+          <div class="card mt-3">
+            <div class="card-body">
+              <h5 class="card-title">Deep Learning in 6G Systems</h5>
+              <p class="card-text">Boniface Uwizeyimana, Another Co-author — <em>6G Future Symposium, 2024</em></p>
+              <a href="#" class="card-link">Read Full Paper</a>
+            </div>
+          </div>
+        </section>
+
+        <!-- Projects -->
+        <section id="projects" class="mb-5">
+          <h2>💼 Projects</h2>
+          <div class="card mt-3">
+            <div class="card-body">
+              <h5 class="card-title">AI-Powered Network Optimizer</h5>
+              <p class="card-text">Developed a simulation tool that dynamically adjusts wireless parameters using reinforcement learning.</p>
+              <a href="#" class="card-link">View Project</a>
+            </div>
+          </div>
+          <div class="card mt-3">
+            <div class="card-body">
+              <h5 class="card-title">Smart Spectrum Allocation</h5>
+              <p class="card-text">An AI model that predicts optimal frequency bands for 5G and 6G networks.</p>
+              <a href="#" class="card-link">View Project</a>
+            </div>
+          </div>
+        </section>
+
+        <!-- Blogs -->
+        <section id="blogs" class="mb-5">
+          <h2>📝 Blogs</h2>
+          <div class="card mt-3">
+            <div class="card-body">
+              <h5 class="card-title">Why AI is the Future of Wireless Networks</h5>
+              <p class="card-text"><strong>Date:</strong> February 10, 2025</p>
+              <p>A quick look into how artificial intelligence is shaping wireless infrastructure across industries.</p>
+              <a href="#" class="card-link">Read More</a>
+            </div>
+          </div>
+          <div class="card mt-3">
+            <div class="card-body">
+              <h5 class="card-title">Behind the Research: Building Models that Scale</h5>
+              <p class="card-text"><strong>Date:</strong> March 22, 2025</p>
+              <p>Lessons learned while developing scalable AI systems for real-world deployment in telecoms.</p>
+              <a href="#" class="card-link">Read More</a>
+            </div>
+          </div>
+        </section>
+
+        <!-- About -->
+
+        <section id="contactme" class="container my-5">
+            <h2 class="mb-4">📬 Contact Me</h2>
+            <p>Do you have an inquiry? Don't hesitate to contact me.</p>
+            <form method="POST p-4 border rounded">
+              <div class="row mb-3">
+                <div class="col-md-6">
+                  <label for="firstName" class="form-label">First Name</label>
+                  <input type="text" class="form-control" id="firstName" placeholder="John">
+                </div>
+                <div class="col-md-6">
+                  <label for="secondName" class="form-label">Second Name</label>
+                  <input type="text" class="form-control" id="secondName" placeholder="Smith">
+                </div>
+              </div>
+              <div class="mb-3">
+                <label for="phone" class="form-label">Phone Number</label>
+                <input type="tel" class="form-control" id="phone" placeholder="+(code) xxxxxxx">
+              </div>
+              <div class="mb-3">
+                <label for="email" class="form-label">Email Address</label>
+                <input type="email" class="form-control" id="email" placeholder="me@example.com">
+              </div>
+              <div class="mb-3">
+                <label for="message" class="form-label">Message</label>
+                <textarea class="form-control" id="message" rows="4" placeholder="How can we collaborate?"></textarea>
+              </div>
+              <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+          </section>
+          
+
+      </main>
+    </div>
   </div>
 
+  <!-- Footer -->
+  <footer class="bg-dark text-white text-center py-3">
+    <p class="mb-0">&copy; 2025 Boniface Uwizeyimana | AI-Powered Wireless Networks</p>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
